@@ -1,0 +1,13 @@
+META-INF/CompilerHints
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B1.class
+dimdakis/generated/MyBenchmark_jmh_B3.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B2.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B3.class
+dimdakis/generated/MyBenchmark_jmh.class
+dimdakis/generated/MyBenchmark_testMethod2.class
+META-INF/BenchmarkList
+dimdakis/generated/MyBenchmark_jmh_B1.class
+dimdakis/generated/MyBenchmark_testMethod.class
+dimdakis/MyBenchmark.class
+dimdakis/generated/MyBenchmark_jmh_B2.class
